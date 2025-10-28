@@ -1,4 +1,0 @@
-streamlit
-jira
-requests
-pandas
